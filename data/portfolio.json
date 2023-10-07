@@ -1,0 +1,73 @@
+{
+  "name": "Dharun",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Dharun Kumar - curious",
+  "headerTaglineThree": "Software & Cloud Engineer",
+  "headerTaglineFour": " based in Coimbatore, India.",
+  "showBlog": false,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/dharunkumardev"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/chetanverma7/"
+    },
+    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+  ],
+  "projects": [],
+  "services": [
+    {
+      "id": "1",
+      "title": "Server Side Developer",
+      "description": "I am an experienced server-side developer with a strong background in designing and implementing robust backend solutions.I thrive on optimizing performance, security, and reliability, and I am passionate about staying current with emerging technologies in server-side development to deliver innovative solutions"
+    },
+    {
+      "id": "2",
+      "title": "Dev-Ops Engineer",
+      "description": "I excel in creating highly available and scalable infrastructures while maintaining a strong focus on security and compliance. My passion for staying up-to-date with the latest DevOps trends and best practices enables me to drive efficiency and innovation within development teams."
+    },
+    {
+      "id": "3",
+      "title": "Database Engineer",
+      "description": "And Experienced and dedicated database management professional with a strong track record of designing, implementing, and maintaining robust database systems. Proficient in various database technologies and skilled in optimizing database performance, ensuring data integrity, and supporting business-critical applications."
+    }
+  ],
+  "aboutpara": "I am a software engineer with a passion for coding and I specialize in software development and deployments with AWS services,I enjoy creating efficient and effective solutions to technical challenges and thrive in collaborative team environments. I am dedicated to continuous learning and staying current with industry trends to enhance my skills and contribute to innovative projects",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer, and maker.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": [
+          "Worked on the frontend of a React application",
+          "Worked on the frontend of a React application"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "March 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": ["Worked on the frontend of a React application"]
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
