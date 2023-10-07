@@ -15,9 +15,8 @@
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/dharunkumardev/"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
     { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
   ],
   "projects": [],

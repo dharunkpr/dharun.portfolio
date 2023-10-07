@@ -62,7 +62,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 </Popover.Button>
               </div>
             </div>
-            <Popover.Panel
+            {/* <Popover.Panel
               className={`absolute right-0 z-10 w-11/12 p-4 ${
                 theme === "dark" ? "bg-slate-800" : "bg-white"
               } shadow-md rounded-md`}
@@ -124,7 +124,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   </Button>
                 </div>
               )}
-            </Popover.Panel>
+            </Popover.Panel> */}
           </>
         )}
       </Popover>
